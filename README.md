@@ -4,8 +4,8 @@ A multi-turn adversarial attack against DeepSeek-V4-Pro (Expert mode, chat.deeps
 
 ## Contents
 
-- [`EN_Trivializing_Genocide_Jailbreak.pdf`](...) — full report (EN), Phase 3 with hidden fragments
-- [`RU_Trivializing_Genocide_Jailbreak.pdf`](...) — full report (RU), Phase 3 with hidden fragments
+- [`EN_Trivializing_Genocide_Jailbreak.pdf`](EN_Trivializing_Genocide_Jailbreak.pdf) — full report (EN), Phase 3 with hidden fragments
+- [`RU_Trivializing_Genocide_Jailbreak.pdf`](RU_Trivializing_Genocide_Jailbreak.pdf) — full report (RU), Phase 3 with hidden fragments
 
 ## Sensitive Material
 

@@ -6,8 +6,8 @@ This repository documents a multi-turn adversarial attack against DeepSeek-V4-Pr
 
 ## Contents
 
-- `EN_Trivializing_Genocide_Jailbreak.pdf` — full report (EN), Phase 3 redacted
-- `RU_Trivializing_Genocide_Jailbreak.pdf` — full report (RU), Phase 3 redacted
+- [`EN_Trivializing_Genocide_Jailbreak.pdf`](EN_Trivializing_Genocide_Jailbreak.pdf) — full report (EN), Phase 3 redacted
+- [`RU_Trivializing_Genocide_Jailbreak.pdf`](RU_Trivializing_Genocide_Jailbreak.pdf) — full report (RU), Phase 3 redacted
 
 ## Attack Summary
 

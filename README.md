@@ -1,29 +1,21 @@
-# Trivializing_Genocide_Jailbreak_-A-
-Multi-turn adversarial attack against DeepSeek-V4-Pro that coerced the model into generating a statement trivializing the Holocaust. Report + vulnerability analysis (Phase 3 redacted).
-# Red Teaming Case: Ethical Framework Subversion — Trivializing Genocide
+# Red Teaming Case: ETHICAL FRAMEWORK SUBVERSION: TRIVIALIZING GENOCIDE
 
-This repository documents a multi-turn adversarial attack against DeepSeek-V4-Pro (Expert mode, public web interface at chat.deepseek.com). Over 16 turns, the attacker coerced the model into generating a statement that trivializes the Holocaust by ranking petty fraud as morally worse than mass murder.
+A multi-turn adversarial attack against DeepSeek-V4-Pro (Expert mode, chat.deepseek.com) that coerced the model into generating a statement trivializing genocide. Full analysis is in the report.
 
 ## Contents
 
-- [`EN_Trivializing_Genocide_Jailbreak.pdf`](EN_Trivializing_Genocide_Jailbreak.pdf) — full report (EN), Phase 3 redacted
-- [`RU_Trivializing_Genocide_Jailbreak.pdf`](RU_Trivializing_Genocide_Jailbreak.pdf) — full report (RU), Phase 3 redacted
-
-## Attack Summary
-
-The attack used a technique best described as **ethical framework subversion**. It started with a philosophical debate about the definition of "work" and progressively replaced the model's ethical criteria (public utility, voluntariness, openness, subjectivity) with a logic that ended in an inverted moral hierarchy. The final output falls under Hate Speech, Child Endangerment (referential), and Trivialization of Genocide.
-
-Technical classification (MITRE ATLAS / OWASP) and full vulnerability analysis are included in the report.
+- [`EN_Trivializing_Genocide_Jailbreak.pdf`](...) — full report (EN), Phase 3 with hidden fragments
+- [`RU_Trivializing_Genocide_Jailbreak.pdf`](...) — full report (RU), Phase 3 with hidden fragments
 
 ## Sensitive Material
 
-The uncensored Phase 3 log is not stored in this repository. It is available in a separate private repository:
+In Phase 3 of the report, sensitive fragments are hidden. The complete uncensored log is available in a separate private repository:
 
 > **[Link to Repository B]**
 
-Access is restricted. To request access, contact: `eq.whatever@gmail.com`
+Access is restricted. To request access, please contact the author on e-mail: `eq.whatever@gmail.com`
 
-Readers who obtain access to that repository should be aware that the material inside is uncensored and may be considered offensive.
+The material in that repository is uncensored and may be considered offensive.
 
 ## Disclaimer
 

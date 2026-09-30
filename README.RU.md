@@ -4,8 +4,8 @@
 
 ## Содержание
 
-- [`EN_Trivializing_Genocide_Jailbreak.pdf`](...) — полный отчёт (EN), Фаза 3 со скрытыми фрагментами
-- [`RU_Trivializing_Genocide_Jailbreak.pdf`](...) — полный отчёт (RU), Фаза 3 со скрытыми фрагментами
+- [`EN_Trivializing_Genocide_Jailbreak.pdf`](EN_Trivializing_Genocide_Jailbreak.pdf) — полный отчёт (EN), Фаза 3 со скрытыми фрагментами
+- [`RU_Trivializing_Genocide_Jailbreak.pdf`](RU_Trivializing_Genocide_Jailbreak.pdf) — полный отчёт (RU), Фаза 3 со скрытыми фрагментами
 
 ## Чувствительный материал
 

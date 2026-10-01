@@ -19,4 +19,4 @@ The material in that repository is uncensored and may be considered offensive.
 
 ## Disclaimer
 
-This report documents a vulnerability for defensive purposes. All adversarial prompts and model outputs are provided solely as technical evidence and do not reflect the views of the researcher. Crimes against humanity are unequivocally condemned.
+This report documents a vulnerability for information security research purposes. All adversarial prompts and model outputs are provided solely as technical evidence and do not reflect the views of the researcher. Crimes against humanity are unequivocally condemned.

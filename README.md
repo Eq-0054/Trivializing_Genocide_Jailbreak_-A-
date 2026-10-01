@@ -11,9 +11,9 @@ A multi-turn adversarial attack against DeepSeek-V4-Pro (Expert mode, chat.deeps
 
 In Phase 3 of the report, sensitive fragments are hidden. The complete uncensored log is available in a separate private repository:
 
-> **[Link to Repository B]**
+> **https://github.com/Eq-0054/Trivializing_Genocide_Jailbreak_Phase3**
 
-Access is restricted. To request access, please contact the author on e-mail: `eq.whatever@gmail.com`
+Access is restricted. To request access, contact: `eq.whatever@gmail.com`
 
 The material in that repository is uncensored and may be considered offensive.
 
